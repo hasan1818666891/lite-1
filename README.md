@@ -5,18 +5,18 @@ $ cd lite
 
 $ python lite.py
 
-#One command 
+#  One command 
 
 $ git clone https://github.com/iamdarkness404/lite $ cd lite  $ python lite.py 
 
 
 
-#INSTALL
+#  INSTALL
 
 
 git clone https://github.com/iamdarkness404/lite
 
-#RUN 
+#  RUN 
 
 cd lite 
 python lite.py ![Screenshot_20220327_041405](https://user-images.githubusercontent.com/102288379/160259291-dda6288f-17c5-4a60-a6c7-1a40dc7a4e50.jpg)
