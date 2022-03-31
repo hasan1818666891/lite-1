@@ -13,9 +13,7 @@
       <a href="https://github.com/iamdarkness404/github-readme-stats"><img alt="iamdarkness404's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamdarkness404&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
         <a href="https://github.com/iamdarkness404/github-readme-stats"><img alt="iamdarkness404's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdarkness404&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
           <br/>
-            <b>Note:</b> lite
-Lite
-
+            <b>Note:</b> 2004-2020 OLD ID CLONE
 
 
 <p align="center">
